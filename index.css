@@ -1,0 +1,22 @@
+
+	#para{background:url('NOLONGER.jpg') no-repeat 100%;}
+	
+	.bg-image {
+  background-image: url('logo.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 300px) {
+  .card {width:350px;}
+}
+
+.row{
+  margin: 5px;
+}
+
+.nav-item {color: #40352B;
+                font:bold;
+                font-size: 20px;}
